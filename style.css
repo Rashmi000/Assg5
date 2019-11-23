@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+.section1{
+    padding: 20px;
+    text-align: center;
+    height: 400px;
+}
+ul{
+    display: inline;
+    list-style-type: none;
+}
+li{
+    display: inline;
+    padding-right: 10px;
+}
+a{
+    text-decoration: none;
+}
+#heading{
+    padding-top: 30px;
+}
+#para{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.section2, .section3{
+    padding-top: 10px;
+    text-align: center;
+    height: 400px;
+}
+
+p{
+    padding-bottom: 30px;
+}
+#subh{
+    text-align: left;
+    padding-left: 30px;
+}
