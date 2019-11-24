@@ -33,6 +33,7 @@ ul li a{
     padding-top: 10px;
     padding-bottom: 20px;
     color: white;
+    font-size: 18px;
 }
 .button {
     background-color: #4CAF50;
@@ -41,8 +42,8 @@ ul li a{
     text-align: center;
     text-decoration: none;
     border-radius: 100px;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
     padding-top: 10px;
     padding-bottom: 10px;
 }
@@ -60,9 +61,20 @@ ul li a{
     text-align: center;
     padding-left: 15px;
     padding-right: 15px;
+    font-size: 14px;
+}
+#head{
+    font-size: 18px;
+    padding-bottom: 50px;
+}
+p{
+    font-size: 14px;
 }
 .section3{
-    padding-top: 10px;
+    padding-top: 50px;
     text-align: center;
     height: 450px;
+}
+.right{
+    text-align: left;
 }
