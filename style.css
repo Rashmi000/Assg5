@@ -9,7 +9,7 @@ body{
     background-size: cover;
     padding: 20px;
     text-align: center;
-    height: 400px;
+    height: 450px;
 }
 ul{
     display: inline;
@@ -31,6 +31,7 @@ ul li a{
     padding-left: 50px;
     padding-right: 50px;
     padding-top: 10px;
+    padding-bottom: 20px;
     color: white;
 }
 .button {
@@ -46,8 +47,22 @@ ul li a{
     padding-bottom: 10px;
 }
  
-.section2, .section3{
+.section2{
+    background-color: rgb(230, 233, 238);
     padding-top: 10px;
     text-align: center;
-    height: 400px;
+    height: 450px;
+}
+.image{
+    padding-top: 20px;
+}
+#caption{
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.section3{
+    padding-top: 10px;
+    text-align: center;
+    height: 450px;
 }
