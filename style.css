@@ -65,7 +65,7 @@ ul li a{
 }
 #head{
     font-size: 18px;
-    padding-bottom: 50px;
+    padding-bottom: 20px;
 }
 p{
     font-size: 14px;
@@ -74,6 +74,12 @@ p{
     padding-top: 50px;
     text-align: center;
     height: 450px;
+}
+.bgcol{
+    background-color: green;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
 }
 .right{
     text-align: left;
